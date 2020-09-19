@@ -1,0 +1,344 @@
+15:22:14  [main] 	Initializing Control Panel
+15:22:14  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+15:22:14  [main] 	XAMPP Version: 7.4.3
+15:22:14  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+15:22:14  [main] 	Running with Administrator rights - good!
+15:22:14  [main] 	XAMPP Installation Directory: "c:\xampp\"
+15:22:14  [main] 	Checking for prerequisites
+15:22:18  [main] 	All prerequisites found
+15:22:18  [main] 	Initializing Modules
+15:22:18  [main] 	Starting Check-Timer
+15:22:18  [main] 	Control Panel Ready
+15:26:15  [Apache] 	Attempting to start Apache service...
+15:26:16  [Apache] 	Status change detected: running
+15:26:17  [mysql] 	Attempting to start MySQL service...
+15:26:20  [mysql] 	Status change detected: running
+15:29:03  [main] 	Deinitializing Modules
+15:29:03  [main] 	Deinitializing Control Panel
+
+15:29:26  [main] 	Initializing Control Panel
+15:29:26  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+15:29:26  [main] 	XAMPP Version: 7.4.3
+15:29:26  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+15:29:26  [main] 	Running with Administrator rights - good!
+15:29:26  [main] 	XAMPP Installation Directory: "c:\xampp\"
+15:29:26  [main] 	Checking for prerequisites
+15:29:26  [main] 	All prerequisites found
+15:29:26  [main] 	Initializing Modules
+15:29:26  [Apache] 	XAMPP Apache Service is already running on port 80
+15:29:26  [Apache] 	XAMPP Apache Service is already running on port 443
+15:29:26  [mysql] 	XAMPP MySQL Service is already running on port 3306
+15:29:26  [main] 	Starting Check-Timer
+15:29:26  [main] 	Control Panel Ready
+16:50:45  [Apache] 	Attempting to stop Apache service...
+16:50:45  [mysql] 	Attempting to stop MySQL service...
+16:50:48  [Apache] 	Status change detected: stopped
+16:50:48  [mysql] 	Status change detected: stopped
+00:01:06  [main] 	Deinitializing Modules
+00:01:06  [main] 	Deinitializing Control Panel
+
+14:55:07  [main] 	Initializing Control Panel
+14:55:07  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+14:55:07  [main] 	XAMPP Version: 7.4.3
+14:55:07  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+14:55:07  [main] 	Running with Administrator rights - good!
+14:55:07  [main] 	XAMPP Installation Directory: "c:\xampp\"
+14:55:07  [main] 	Checking for prerequisites
+14:55:16  [main] 	All prerequisites found
+14:55:16  [main] 	Initializing Modules
+14:55:16  [Apache] 	XAMPP Apache Service is already running on port 80
+14:55:16  [Apache] 	XAMPP Apache Service is already running on port 443
+14:55:16  [mysql] 	XAMPP MySQL Service is already running on port 3306
+14:55:16  [main] 	Starting Check-Timer
+14:55:16  [main] 	Control Panel Ready
+17:27:07  [main] 	Deinitializing Modules
+17:27:07  [main] 	Deinitializing Control Panel
+
+17:15:22  [main] 	Initializing Control Panel
+17:15:22  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+17:15:22  [main] 	XAMPP Version: 7.4.3
+17:15:22  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+17:15:22  [main] 	Running with Administrator rights - good!
+17:15:22  [main] 	XAMPP Installation Directory: "c:\xampp\"
+17:15:22  [main] 	Checking for prerequisites
+17:15:34  [main] 	All prerequisites found
+17:15:34  [main] 	Initializing Modules
+17:15:35  [main] 	Starting Check-Timer
+17:15:35  [main] 	Control Panel Ready
+17:16:20  [Apache] 	Attempting to start Apache service...
+17:16:27  [Apache] 	Status change detected: running
+17:16:28  [mysql] 	Attempting to start MySQL service...
+17:16:32  [mysql] 	Status change detected: running
+18:04:47  [main] 	Deinitializing Modules
+18:04:47  [main] 	Deinitializing Control Panel
+
+15:23:16  [main] 	Initializing Control Panel
+15:23:16  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+15:23:16  [main] 	XAMPP Version: 7.4.3
+15:23:16  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+15:23:16  [main] 	Running with Administrator rights - good!
+15:23:16  [main] 	XAMPP Installation Directory: "c:\xampp\"
+15:23:16  [main] 	Checking for prerequisites
+15:23:20  [main] 	All prerequisites found
+15:23:20  [main] 	Initializing Modules
+15:23:20  [main] 	Starting Check-Timer
+15:23:20  [main] 	Control Panel Ready
+15:23:28  [Apache] 	Attempting to start Apache service...
+15:23:30  [Apache] 	Status change detected: running
+18:01:25  [Apache] 	Attempting to stop Apache service...
+18:01:31  [main] 	Deinitializing Modules
+18:01:31  [main] 	Deinitializing Control Panel
+
+13:48:28  [main] 	Initializing Control Panel
+13:48:28  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+13:48:28  [main] 	XAMPP Version: 7.4.3
+13:48:28  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+13:48:28  [main] 	Running with Administrator rights - good!
+13:48:28  [main] 	XAMPP Installation Directory: "c:\xampp\"
+13:48:28  [main] 	Checking for prerequisites
+13:48:33  [main] 	All prerequisites found
+13:48:33  [main] 	Initializing Modules
+13:48:33  [main] 	Starting Check-Timer
+13:48:33  [main] 	Control Panel Ready
+13:48:35  [Apache] 	Attempting to start Apache service...
+13:48:38  [Apache] 	Status change detected: running
+13:48:39  [mysql] 	Attempting to start MySQL service...
+13:48:43  [mysql] 	Status change detected: running
+17:34:42  [Apache] 	Attempting to stop Apache service...
+17:34:42  [mysql] 	Attempting to stop MySQL service...
+17:34:45  [Apache] 	Status change detected: stopped
+17:34:45  [mysql] 	Status change detected: stopped
+17:34:45  [main] 	Deinitializing Modules
+17:34:45  [main] 	Deinitializing Control Panel
+
+09:22:16  [main] 	Initializing Control Panel
+09:22:16  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+09:22:16  [main] 	XAMPP Version: 7.4.3
+09:22:16  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+09:22:16  [main] 	Running with Administrator rights - good!
+09:22:16  [main] 	XAMPP Installation Directory: "c:\xampp\"
+09:22:16  [main] 	Checking for prerequisites
+09:22:20  [main] 	All prerequisites found
+09:22:20  [main] 	Initializing Modules
+09:22:20  [main] 	Starting Check-Timer
+09:22:20  [main] 	Control Panel Ready
+09:22:22  [Apache] 	Attempting to start Apache service...
+09:22:25  [Apache] 	Status change detected: running
+09:22:56  [Apache] 	Attempting to stop Apache service...
+09:23:02  [main] 	Deinitializing Modules
+09:23:02  [main] 	Deinitializing Control Panel
+
+09:52:57  [main] 	Initializing Control Panel
+09:52:57  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+09:52:57  [main] 	XAMPP Version: 7.4.3
+09:52:57  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+09:52:57  [main] 	Running with Administrator rights - good!
+09:52:57  [main] 	XAMPP Installation Directory: "c:\xampp\"
+09:52:57  [main] 	Checking for prerequisites
+09:53:00  [main] 	All prerequisites found
+09:53:00  [main] 	Initializing Modules
+09:53:01  [main] 	Starting Check-Timer
+09:53:01  [main] 	Control Panel Ready
+09:53:06  [Apache] 	Attempting to start Apache service...
+09:53:07  [mysql] 	Attempting to start MySQL service...
+09:53:09  [Apache] 	Status change detected: running
+09:53:11  [mysql] 	Status change detected: running
+11:26:21  [main] 	Deinitializing Modules
+11:26:21  [main] 	Deinitializing Control Panel
+
+09:31:26  [main] 	Initializing Control Panel
+09:31:26  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+09:31:26  [main] 	XAMPP Version: 7.4.3
+09:31:26  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+09:31:26  [main] 	Running with Administrator rights - good!
+09:31:26  [main] 	XAMPP Installation Directory: "c:\xampp\"
+09:31:26  [main] 	Checking for prerequisites
+09:31:39  [main] 	All prerequisites found
+09:31:39  [main] 	Initializing Modules
+09:31:39  [main] 	Starting Check-Timer
+09:31:39  [main] 	Control Panel Ready
+09:31:45  [Apache] 	Attempting to start Apache service...
+09:31:53  [Apache] 	Status change detected: running
+11:51:30  [main] 	Deinitializing Modules
+11:51:30  [main] 	Deinitializing Control Panel
+
+12:01:24  [main] 	Initializing Control Panel
+12:01:24  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+12:01:24  [main] 	XAMPP Version: 7.4.3
+12:01:24  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+12:01:24  [main] 	Running with Administrator rights - good!
+12:01:24  [main] 	XAMPP Installation Directory: "c:\xampp\"
+12:01:24  [main] 	Checking for prerequisites
+12:01:24  [main] 	All prerequisites found
+12:01:24  [main] 	Initializing Modules
+12:01:24  [main] 	Starting Check-Timer
+12:01:24  [main] 	Control Panel Ready
+12:01:26  [Apache] 	Attempting to start Apache service...
+12:01:26  [mysql] 	Attempting to start MySQL service...
+12:01:28  [Apache] 	Status change detected: running
+12:01:30  [mysql] 	Status change detected: running
+12:34:24  [main] 	Deinitializing Modules
+12:34:24  [main] 	Deinitializing Control Panel
+
+20:14:47  [main] 	Initializing Control Panel
+20:14:47  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+20:14:47  [main] 	XAMPP Version: 7.4.3
+20:14:47  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+20:14:47  [main] 	Running with Administrator rights - good!
+20:14:47  [main] 	XAMPP Installation Directory: "c:\xampp\"
+20:14:47  [main] 	Checking for prerequisites
+20:14:50  [main] 	All prerequisites found
+20:14:50  [main] 	Initializing Modules
+20:14:50  [main] 	Starting Check-Timer
+20:14:50  [main] 	Control Panel Ready
+20:15:06  [Apache] 	Attempting to start Apache service...
+20:15:07  [mysql] 	Attempting to start MySQL service...
+20:15:08  [Apache] 	Status change detected: running
+20:15:09  [mysql] 	Status change detected: running
+22:02:30  [Apache] 	Attempting to stop Apache service...
+22:02:32  [mysql] 	Attempting to stop MySQL service...
+22:02:33  [mysql] 	Status change detected: stopped
+22:02:37  [Apache] 	Status change detected: stopped
+22:53:36  [main] 	Deinitializing Modules
+22:53:36  [main] 	Deinitializing Control Panel
+
+15:36:53  [main] 	Initializing Control Panel
+15:36:53  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+15:36:53  [main] 	XAMPP Version: 7.4.3
+15:36:53  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+15:36:53  [main] 	Running with Administrator rights - good!
+15:36:53  [main] 	XAMPP Installation Directory: "c:\xampp\"
+15:36:53  [main] 	Checking for prerequisites
+15:36:56  [main] 	All prerequisites found
+15:36:56  [main] 	Initializing Modules
+15:36:56  [main] 	Starting Check-Timer
+15:36:56  [main] 	Control Panel Ready
+15:37:01  [Apache] 	Attempting to start Apache service...
+15:37:01  [mysql] 	Attempting to start MySQL service...
+15:37:04  [Apache] 	Status change detected: running
+15:37:06  [mysql] 	Status change detected: running
+16:58:41  [Apache] 	Attempting to stop Apache service...
+16:58:46  [mysql] 	Attempting to stop MySQL service...
+16:58:47  [mysql] 	Status change detected: stopped
+16:58:48  [Apache] 	Status change detected: stopped
+16:59:02  [main] 	Deinitializing Modules
+16:59:02  [main] 	Deinitializing Control Panel
+
+16:23:26  [main] 	Initializing Control Panel
+16:23:26  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+16:23:26  [main] 	XAMPP Version: 7.4.3
+16:23:26  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+16:23:26  [main] 	Running with Administrator rights - good!
+16:23:26  [main] 	XAMPP Installation Directory: "c:\xampp\"
+16:23:26  [main] 	Checking for prerequisites
+16:23:31  [main] 	All prerequisites found
+16:23:31  [main] 	Initializing Modules
+16:23:31  [main] 	Starting Check-Timer
+16:23:31  [main] 	Control Panel Ready
+17:41:35  [main] 	Deinitializing Modules
+17:41:35  [main] 	Deinitializing Control Panel
+
+17:21:20  [main] 	Initializing Control Panel
+17:21:20  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+17:21:20  [main] 	XAMPP Version: 7.4.3
+17:21:20  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+17:21:20  [main] 	Running with Administrator rights - good!
+17:21:20  [main] 	XAMPP Installation Directory: "c:\xampp\"
+17:21:20  [main] 	Checking for prerequisites
+17:21:20  [main] 	All prerequisites found
+17:21:20  [main] 	Initializing Modules
+17:21:21  [Apache] 	XAMPP Apache Service is already running on port 80
+17:21:21  [Apache] 	XAMPP Apache Service is already running on port 443
+17:21:21  [main] 	Starting Check-Timer
+17:21:21  [main] 	Control Panel Ready
+17:26:04  [main] 	Deinitializing Modules
+17:26:04  [main] 	Deinitializing Control Panel
+
+15:05:32  [main] 	Initializing Control Panel
+15:05:32  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+15:05:32  [main] 	XAMPP Version: 7.4.3
+15:05:32  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+15:05:32  [main] 	Running with Administrator rights - good!
+15:05:32  [main] 	XAMPP Installation Directory: "c:\xampp\"
+15:05:32  [main] 	Checking for prerequisites
+15:05:35  [main] 	All prerequisites found
+15:05:35  [main] 	Initializing Modules
+15:05:35  [main] 	Starting Check-Timer
+15:05:35  [main] 	Control Panel Ready
+15:06:28  [Apache] 	Attempting to start Apache service...
+15:06:31  [Apache] 	Status change detected: running
+17:26:04  [main] 	Deinitializing Modules
+17:26:04  [main] 	Deinitializing Control Panel
+
+15:28:27  [main] 	Initializing Control Panel
+15:28:27  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+15:28:27  [main] 	XAMPP Version: 7.4.3
+15:28:27  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+15:28:27  [main] 	Running with Administrator rights - good!
+15:28:27  [main] 	XAMPP Installation Directory: "c:\xampp\"
+15:28:27  [main] 	Checking for prerequisites
+15:28:29  [main] 	All prerequisites found
+15:28:29  [main] 	Initializing Modules
+15:28:29  [main] 	Starting Check-Timer
+15:28:29  [main] 	Control Panel Ready
+15:28:43  [Apache] 	Attempting to start Apache service...
+15:28:44  [Apache] 	Status change detected: running
+17:08:14  [Apache] 	Attempting to stop Apache service...
+17:08:17  [Apache] 	Status change detected: stopped
+17:51:31  [main] 	Deinitializing Modules
+17:51:31  [main] 	Deinitializing Control Panel
+
+15:58:39  [main] 	Initializing Control Panel
+15:58:39  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+15:58:39  [main] 	XAMPP Version: 7.4.3
+15:58:39  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+15:58:39  [main] 	Running with Administrator rights - good!
+15:58:39  [main] 	XAMPP Installation Directory: "c:\xampp\"
+15:58:39  [main] 	Checking for prerequisites
+15:58:39  [main] 	All prerequisites found
+15:58:39  [main] 	Initializing Modules
+15:58:40  [main] 	Starting Check-Timer
+15:58:40  [main] 	Control Panel Ready
+15:58:41  [Apache] 	Attempting to start Apache service...
+15:58:42  [Apache] 	Status change detected: running
+17:16:06  [Apache] 	Attempting to stop Apache service...
+17:16:13  [Apache] 	Status change detected: stopped
+17:16:36  [main] 	Deinitializing Modules
+17:16:36  [main] 	Deinitializing Control Panel
+
+14:55:57  [main] 	Initializing Control Panel
+14:55:58  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+14:55:58  [main] 	XAMPP Version: 7.4.3
+14:55:58  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+14:55:58  [main] 	Running with Administrator rights - good!
+14:55:58  [main] 	XAMPP Installation Directory: "c:\xampp\"
+14:55:58  [main] 	Checking for prerequisites
+14:56:26  [main] 	All prerequisites found
+14:56:26  [main] 	Initializing Modules
+14:56:27  [main] 	Starting Check-Timer
+14:56:27  [main] 	Control Panel Ready
+14:58:16  [Apache] 	Attempting to start Apache service...
+14:58:18  [Apache] 	Status change detected: running
+19:04:56  [Apache] 	Attempting to stop Apache service...
+19:05:00  [Apache] 	Status change detected: stopped
+20:07:47  [main] 	Deinitializing Modules
+20:07:47  [main] 	Deinitializing Control Panel
+
+18:25:04  [main] 	Initializing Control Panel
+18:25:04  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+18:25:04  [main] 	XAMPP Version: 7.4.3
+18:25:04  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+18:25:04  [main] 	Running with Administrator rights - good!
+18:25:04  [main] 	XAMPP Installation Directory: "c:\xampp\"
+18:25:04  [main] 	Checking for prerequisites
+18:25:07  [main] 	All prerequisites found
+18:25:07  [main] 	Initializing Modules
+18:25:07  [main] 	Starting Check-Timer
+18:25:07  [main] 	Control Panel Ready
+18:25:09  [Apache] 	Attempting to start Apache service...
+18:25:10  [Apache] 	Status change detected: running
+18:53:46  [Apache] 	Attempting to stop Apache service...
+18:53:54  [Apache] 	Status change detected: stopped
+19:11:49  [main] 	Deinitializing Modules
+19:11:49  [main] 	Deinitializing Control Panel
+
